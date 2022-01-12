@@ -4,6 +4,4 @@
 [submodule "marketplace-ui"]
 	path = marketplace-ui
 	url = git@github.com:TommasoAzz/non-fungible-royalty-token-ui.git
-[submodule "marketplace-contracts"]
-	path = marketplace-contracts
-	url = git@github.com:TommasoAzz/non-fungible-royalty-token-marketplace.git
+
