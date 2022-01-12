@@ -1,9 +1,9 @@
 [submodule "contracts"]
 	path = contracts
-	url = https://github.com/TommasoAzz/non-fungible-royalty-token-contracts
+	url = git@github.com:TommasoAzz/non-fungible-royalty-token-contracts.git
 [submodule "marketplace-ui"]
 	path = marketplace-ui
-	url = https://github.com/TommasoAzz/non-fungible-royalty-token-ui
+	url = git@github.com:TommasoAzz/non-fungible-royalty-token-ui.git
 [submodule "marketplace-contracts"]
 	path = marketplace-contracts
-	url = https://github.com/TommasoAzz/non-fungible-royalty-token-marketplace
+	url = git@github.com:TommasoAzz/non-fungible-royalty-token-contracts.git
